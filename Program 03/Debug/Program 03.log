@@ -1,0 +1,4 @@
+﻿  Function.cpp
+C:\Users\leadr\source\repos\Program 03\Function.cpp(195,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\leadr\source\repos\Program 03\Function.cpp(203,27): warning C4018: '<': signed/unsigned mismatch
+  Program 03.vcxproj -> C:\Users\leadr\source\repos\Program 03\Debug\Program 03.exe
